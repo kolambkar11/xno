@@ -8,7 +8,7 @@ function App() {
     <>
       {/* <Board/> */}
       <Profile/>
-      {/* <Post/> */}
+      <Post/>
     </>
   )
 }
